@@ -1,4 +1,4 @@
-public class No_1{
+public class F{
 	static double[] F=new double[100];
 	public static void main(String[] args){
 		for(int i=0;i<100;i++){
